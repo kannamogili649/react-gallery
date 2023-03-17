@@ -1,0 +1,25 @@
+.image {
+  width: 100%;
+  height: 400px;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  width: 100%;
+  min-height: 100vh;
+}
+.content-container {
+  width: 80%;
+  padding: 10px;
+  margin: auto;
+}
+.img-container {
+  text-align: center;
+}
+.thumbnail-container-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding-left: 0;
+}

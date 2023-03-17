@@ -1,0 +1,9 @@
+.thumbnail-container {
+  list-style-type: none;
+  margin-right: 10px;
+  opacity: 0.5;
+  cursor: pointer;
+}
+.non-blur {
+  opacity: 1;
+}
